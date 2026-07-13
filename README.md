@@ -1,7 +1,7 @@
 # 🔐 VirtuAuth — Reimagining Authentication Through Spatial UI
 
 <p align="center">
-  <img src="./virtuauth_preview.gif" alt="VirtuAuth Interactive Demo" width="100%">
+  <img src="./virtuauth_gif.gif" alt="VirtuAuth Interactive Demo" width="100%">
 </p>
 
 <p align="center">
