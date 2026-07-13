@@ -2,6 +2,11 @@
 
 > An immersive 3D authentication experience that transforms the traditional login screen into an interactive spatial environment using Three.js and WebGL.
 
+<video controls autoplay muted loop width="100%" playsinline>
+  <source src="./virtuauth_gif.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js)
 ![WebGL](https://img.shields.io/badge/WebGL-3D-red?style=for-the-badge)
